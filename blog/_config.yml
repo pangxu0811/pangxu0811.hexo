@@ -2,6 +2,8 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+all_minifier: true
+
 # Site
 title: Hexo
 subtitle: ''
@@ -104,5 +106,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/pangxu0811/pangxu0811.github.io.git
+  repo: git@114.55.33.102:/home/git/repos/blog.git
   branch: master
