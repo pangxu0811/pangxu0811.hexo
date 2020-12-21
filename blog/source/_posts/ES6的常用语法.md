@@ -1,4 +1,5 @@
 ﻿---
+index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/title_6.jpg
 title: ES6的常用语法
 categories:
 - [编程开发,前端,JS]

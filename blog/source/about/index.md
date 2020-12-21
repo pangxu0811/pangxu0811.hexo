@@ -1,4 +1,5 @@
 ---
+index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/about.png
 title: about
 date: 2020-12-19 14:21:54
 layout: about

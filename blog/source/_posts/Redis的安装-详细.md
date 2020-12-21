@@ -1,5 +1,5 @@
 ﻿---
-index_img: /img/title_3.jpg
+index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/title_3.jpg
 title: Redis的安装-详细
 categories:
 - [编程开发,数据库,Redis]

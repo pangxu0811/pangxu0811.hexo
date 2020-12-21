@@ -1,5 +1,5 @@
 ﻿---
-index_img: /img/title_1.jpg
+index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/title_1.jpg
 title: Spring Boot笔记
 categories:
 - [编程开发,后端,笔记]

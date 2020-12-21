@@ -1,6 +1,6 @@
 ﻿
 ---
-index_img: /img/title_2.png
+index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/title_2.png
 title: SpringBoot开发博客网站
 categories:
 - [编程开发,后端,SpringBoot]
