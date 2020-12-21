@@ -1,5 +1,5 @@
 ﻿---
-index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/title_5png
+index_img: https://cdn.jsdelivr.net/gh/pangxu0811/pangxu0811.hexo/blog/themes/fluid/source/img/title_5.png
 title: JAVA前端到后台常用框架介绍
 categories:
 - [编程开发,后端]
